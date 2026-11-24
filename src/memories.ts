@@ -21,7 +21,7 @@ export const memories: Memory[] = [
 ];
 export const categories = ['All Memories', 'Our Favorite Moments', 'Random Pictures', 'Little Adventures', 'My Favorite Photos of Us'] as const;
 export const timeline = [
-  { date: 'The beginning', title: 'The day we started talking', description: 'The first little hello that led me to you.' },
+  { date: 'The beginning', title: 'The you visited Turac', description: 'The first little hello that led me to you.' },
   { date: 'A day to remember', title: 'Our first date', description: 'A favorite memory I keep replaying.' },
   { date: 'Somewhere along the way', title: 'You became special to me', description: 'And somehow my days started feeling brighter.' },
   { date: 'Today \u2661', title: 'Our first monthsary', description: 'One month down, so many memories still to come.' },
